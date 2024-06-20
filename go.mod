@@ -190,6 +190,5 @@ retract (
 	[v0.46.0, v0.46.4]
 	// subject to the dragonberry vulnerability
 	[v0.45.0, v0.45.8]
-	// do not use
 	v0.43.0
 )
